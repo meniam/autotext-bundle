@@ -1,9 +1,9 @@
 {
-    "name": "evirma/autotext-bundle",
+    "name": "meniam/autotext-bundle",
     "type": "symfony-bundle",
     "description":  "Seo text generator library for Symfony 5",
     "keywords": ["app", "web", "seo", "text", "permutation"],
-    "homepage": "https://github.com/evirma/autotext-bundle",
+    "homepage": "https://github.com/meniam/autotext-bundle",
     "license": "MIT",
     "authors": [
         {
